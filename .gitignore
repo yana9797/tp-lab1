@@ -1,0 +1,10 @@
+*.log
+*.tmp
+.DS_Store
+node_modules/
+.vscode/
+__pycache__/
+*.exe
+.env
+*.bak
+dist/
